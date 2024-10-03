@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Yada v</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akhilesh-yadav-44a496216/">Akhilesh Yadav</a> </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshyadav7007&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshyadav7007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/7007_yadav" target="blank"><img src="https://img.shields.io/twitter/follow/7007_yadav?logo=twitter&style=for-the-badge" alt="7007_yadav" /></a> </p>
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="http://sanjaykv.com/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/akhilesh-yadav-44a496216/">LinkedIn</a> - 
+  <a href="https://x.com/7007_yadav">Twitter</a> -
+  <a href="#">Website</a> -
+  <a href="#">Google Featured</a> -
+  <a href="akhileshyadavji7007@gmail.com">Contact me</a> 
+</p>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning *DSA and Advanced Java*
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Software Engineer <br>
+👨‍💻 All of my projects are available on Github<br>
+💬 Ask me about Software<br>
+📫 How to reach me akhileshyadavji7007@gmail.com
+<!--- Adding Tech Stack open Section -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkhileshYadav7007?tab=repositories](https://github.com/AkhileshYadav7007?tab=repositories)
 
-- 💬 Ask me about *Core Java*
-
-- 📫 How to reach me *akhileshyadavji7007@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
