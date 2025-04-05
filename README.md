@@ -3,7 +3,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://akhileshyadav7007.github.io/Portfolio/">Portfolio</a> -
+  <a href="https://akhileshyadav7007.github.io/Akhilesh_Portfolio/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/akhilesh-yadav-44a496216/">LinkedIn</a> - 
   <a href="https://x.com/7007_yadav">Twitter</a> -
   <a href="#">Website</a> -
